@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/nabilroslizar/previewcard.git)
-- Live Site URL: [Add live site URL here](https://nabilroslizar.github.io/preview-card/)
+- Live Site URL: [Add live site URL here](https://guileless-cendol-c8077c.netlify.app/)
 
 ## My process
 
